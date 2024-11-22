@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "title": "The Art of Web Development",
+      "cover_img": "https://i.ibb.co/3Ts3yck/1.jpg",
+      "author": "Mukaddam Billal",
+      "author_img": "https://i.ibb.co/12mb42c/boy1.png",
+      "posted_date": "19 Nov 2024",
+      "reading_time": 5,
+      "hashtags": ["webdevelopment", "coding", "frontend"]
+    },
+    {
+      "id": 2,
+      "title": "Mastering JavaScript: Tips and Tricks",
+      "cover_img": "https://i.ibb.co/hLLyB7h/2.png",
+      "author": "Jane Doe",
+      "author_img": "https://i.ibb.co/Cvp6rGT/boy2.jpg",
+      "posted_date": "15 Nov 2024",
+      "reading_time": 7,
+      "hashtags": ["javascript", "programming", "tips"]
+    },
+    {
+      "id": 3,
+      "title": "Understanding CSS Grid and Flexbox",
+      "cover_img": "https://i.ibb.co/vkk2ZB1/3.png",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co/0JFpM5x/girl1.jpg",
+      "posted_date": "10 Nov 2024",
+      "reading_time": 10,
+      "hashtags": ["css", "grid", "flexbox"]
+    },
+    {
+      "id": 4,
+      "title": "Responsive Design in Modern Web Development",
+      "cover_img": "https://i.ibb.co/xCqY5bJ/4.jpg",
+      "author": "Emily Brown",
+      "author_img": "https://i.ibb.co/HpsL5rm/girl2.jpg",
+      "posted_date": "05 Nov 2024",
+      "reading_time": 8,
+      "hashtags": ["responsivedesign", "mobile", "webdesign"]
+    },
+    {
+      "id": 5,
+      "title": "Exploring React Core Concepts",
+      "cover_img": "https://i.ibb.co/7RYnBnW/Microsoft-Teams-image-13-1.webp",
+      "author": "Gold Smith",
+      "author_img": "https://i.ibb.co/qsv2b5L/3d.jpg",
+      "posted_date": "01 Nov 2024",
+      "reading_time": 6,
+      "hashtags": ["react", "javascript", "frontend"]
+    }
+  ]
+  
